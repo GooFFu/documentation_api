@@ -86,3 +86,45 @@ N - номер объекта - от 1 до 99999
 ```
 ссылка на аудифайл с гидом по объекту
 ```
+
+##### PROPERTIES FAX VALUE
+
+```
+номер факса для связи с объектом
+```
+
+##### PROPERTIES PHONE VALUE #ID#
+
+```
+номера телефонов для связи с объектом
+```
+
+##### PROPERTIES MAIL VALUE #ID#
+
+```
+электронные почты для связи с объектом
+```
+
+##### PROPERTIES POSTCODE VALUE
+
+```
+почтовый индекс объекта
+```
+
+##### PROPERTIES TIME VALUE ID NAME/VALUE
+
+```
+вид занятости / время работы объекта
+```
+
+##### PROPERTIES WORKING_DAYS VALUE ID #NAME_DAY#
+
+```
+дни работы/отдыха (true - работает, false - выходной)
+```
+
+##### PROPERTIES TIME MORE_PHOTO VALUE #ID#
+
+```
+ссылки на картинки для слайдера
+```
